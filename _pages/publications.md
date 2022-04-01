@@ -6,21 +6,23 @@ author_profile: true
 ---
 
 
-  Feel free to check out <u><a href="{{author.googlescholar}}">my Google Scholar page</a>.</u>
+  Feel free to check out [my Google Scholar page](https://scholar.google.com/citations?user=UJrlw1cAAAAJ&hl=en).
 
-# Featured Publications
+## Featured Publications
 
-**Fengli Xu**, Lingfei Wu, James A. Evans. Team Structure and Scientific Innovation. to appear in  *Proceedings of the National Academy of Sciences* (PNAS).
+**Fengli Xu**, Lingfei Wu, James A. Evans. Team Structure and Scientific Innovation. to appear in  *Proceedings of the National Academy of Sciences* (PNAS). [PDF]()
 
-# Papers Under Review
+## Papers Under Review
+
+## Other Publications
+
+#### 2021:
 
 
 
-# Journal Papers
+#### 2020:
 
-
-
-# Conference papers
+#### 2019:
 
 
 
