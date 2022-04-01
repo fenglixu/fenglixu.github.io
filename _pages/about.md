@@ -12,6 +12,8 @@ I am currently a postdoc scholar at the University of Chicago, where I am co-adv
 
 My research interests lie in the interdisciplinary area of *Computational Social Science*, *Urban Science* and *Data Science*, aiming to develop scientific methods and artificial intelligence tools to address the long-standing puzzles in the complex networks arise from human behavior and social interactions. My research aims to fully exploit the opportunities offered by the recent data explosion and tackle the problems in social complexity research with novel *Data Science* / *AI* techniques. 
 
+
+
 # Education
 
 - **Tsinghua University**, Beijing, China (Sep. 2015 - Jan. 2020).
@@ -24,6 +26,8 @@ My research interests lie in the interdisciplinary area of *Computational Social
 
   *Bachelor* in Department of Electronic Engineering
 
+  
+
 # Research Experience
 
 - **The University of Chicago**, *U.S.*
@@ -33,14 +37,6 @@ My research interests lie in the interdisciplinary area of *Computational Social
 - **Hong Kong University of Science & Technology**, *Hong Kong*
 
   *Postdoc Researcher*, with Prof. Pan Hui in SyMLab (Feb. 2020 - Aug. 2020).
-
-- **Microsoft Research Asia**, *China*
-
-  *Research Intern*, with Prof. Xing Xie in Social Computing Group (Oct. 2018 - Jan. 2019).
-
-- **The University of Göttingen**, *Germany*
-
-  *Visiting Researcher*, with Prof. Xiaoming Fu in Computer Networks Group (Jun. 2016 - Sep. 2016).
 
 - **Tsinghua University**, *China*
 
