@@ -16,13 +16,11 @@ My research interests lie in the interdisciplinary area of *Computational Social
 
 # Education
 
-- **Tsinghua University**, Beijing, China (Sep. 2015 - Jan. 2020).
+- **Tsinghua University**, *Sep. 2015 - Jan. 2020*
 
-  *Ph. D.* in Department of Electronic Engineering
+  *Ph. D.* in Department of Electronic Engineering (Advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/))
 
-  Advisor: Prof. Yong Li
-
-- **Huazhong University of Science & Technology**, Wuhan, China (Sep. 2011 - Jul. 2015).
+- **Huazhong University of Science & Technology**, *Sep. 2011 - Jul. 2015*
 
   *Bachelor* in Department of Electronic Engineering
 
@@ -30,15 +28,15 @@ My research interests lie in the interdisciplinary area of *Computational Social
 
 # Research Experience
 
-- **The University of Chicago**, *U.S.*
+- **The University of Chicago**, *Aug. 2020 - Present*
 
-  *Postdoc Scholar*, with Prof. Luis Bettencourt in [Mansueto Institute](https://miurban.uchicago.edu/) and Prof. James Evans in [Knowledge Lab](https://www.knowledgelab.org/) (Aug. 2020 - Present).
+  *Postdoc Scholar*, with Prof. Luis Bettencourt in [Mansueto Institute](https://miurban.uchicago.edu/) and Prof. James Evans in [Knowledge Lab](https://www.knowledgelab.org/).
 
-- **Hong Kong University of Science & Technology**, *Hong Kong*
+- **Hong Kong University of Science & Technology**, *Feb. 2020 - Aug. 2020*
 
-  *Postdoc Researcher*, with Prof. Pan Hui in SyMLab (Feb. 2020 - Aug. 2020).
+  *Postdoc Researcher*, with Prof. Pan Hui in [SyMLab](https://www.cse.ust.hk/~panhui/).
 
-- **Tsinghua University**, *China*
+- **Tsinghua University**, *Sep. 2015 - Jan. 2020*
 
-  Ph. D. Student & Research  Assistant, with Prof. Yong Li in FIB Lab (Sep. 2015 - Jan. 2020).
+  Ph. D. Student & Research  Assistant, with Prof. Yong Li in [FIB Lab](http://fi.ee.tsinghua.edu.cn/).
 
