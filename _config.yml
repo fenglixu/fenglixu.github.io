@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fengli's Homepage"
 title_separator          : "-"
 name                     : &name "Fengli Xu"
-description              : &description "personal description"
+description              : &description "Postdoc@Uchicago"
 url                      : https://fenglixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fenglixu/fenglixu.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Fengli Xu"
-  avatar           : "profile.png"
-  bio              : "Postdoc Scholar"
-  location         : "UChicago"
+  avatar           : "photo.png"
+  bio              : "Postdoc scholar at UChicago, interested in computational social science, urban science."
+  location         : "Chicago, IL"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UJrlw1cAAAAJ&hl=en"
   email            :  "fenglixu@uchicago.edu"
