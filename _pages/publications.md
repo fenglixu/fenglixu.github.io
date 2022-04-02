@@ -10,9 +10,9 @@ author_profile: true
 
 ### Featured Publications
 
-- **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** To appear in *Proceedings of the National Academy of Sciences* (PNAS).  [PDF](/papers/2022_flat.pdf) 
+- **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** To appear in *Proceedings of the National Academy of Sciences* *(PNAS)*.  [PDF](/papers/2022_flat.pdf) 
 - **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Mobility Behavior.** *Nature Computational Science*, 1.12 (2021): 791-800. [PDF](/papers/2021_emergence.pdf) [Link](https://www.nature.com/articles/s43588-021-00160-6) [Code](https://github.com/tsinghua-fib-lab/Collective-Mobility-Model)
-- **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** *Advances in Neural Information Processing Systems* (NeurIPS), 34 (2021). [PDF](/papers/2021_automorphic.pdf) [Link](https://proceedings.neurips.cc/paper/2021/hash/7ffb4e0ece07869880d51662a2234143-Abstract.html) [Code](https://github.com/tsinghua-fib-lab/GRAPE)
+- **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** *Advances in Neural Information Processing Systems* *(NeurIPS)*, 34 (2021). [PDF](/papers/2021_automorphic.pdf) [Link](https://proceedings.neurips.cc/paper/2021/hash/7ffb4e0ece07869880d51662a2234143-Abstract.html) [Code](https://github.com/tsinghua-fib-lab/GRAPE)
 
 ### Working Papers
 
@@ -21,8 +21,8 @@ author_profile: true
 
 ### Journal Publications
 
-- Tong Xia, Yong Li, Yue Yu, **Fengli Xu**, Qingmin Liao, Depeng Jin. **Understanding urban dynamics via state-sharing hidden markov model.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2020.
-- **Fengli Xu**, Yong Li, Zhen Tu, Shuhao Chang, Hongjia Huang. **No More than What I Post: Preventing Linkage Attacks on Check-in Services.** *IEEE Transactions on Mobile Computing (TMC)*, 2019. 
+- Tong Xia, Yong Li, Yue Yu, **Fengli Xu**, Qingmin Liao, Depeng Jin. **Understanding urban dynamics via state-sharing hidden markov model.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 33.10 (2020): 3468-3481. [Link](https://ieeexplore.ieee.org/abstract/document/8964408?casa_token=ASqU9qIV71kAAAAA:BjUhk8eeXRGe76Su5oyvHpY8AglT4bMbkt31HXBM5B9gD_lai37wLVCRhW4LgCYWeFc-NM-4)
+- **Fengli Xu**, Yong Li, Zhen Tu, Shuhao Chang, Hongjia Huang. **No More than What I Post: Preventing Linkage Attacks on Check-in Services.** *IEEE Transactions on Mobile Computing (TMC)*, 20.2 (2019): 620-633. [Link](https://ieeexplore.ieee.org/abstract/document/8869862?casa_token=ISsAsUPMNTMAAAAA:AD6cqM_XI17NtRDLHgTnYIvKlzbV4jETrGXcMHWfMTVaWyH2wH2SoCTXgoD0AJFCgjTaN4wy) 
 - **Fengli Xu**, Zhen Tu, Yong Li. **Connecting the Dots: User Privacy Is NOT Preserved in ID-removed Cellular Data.** *IEEE Transactions on Network and Service Management (TNSM)*, 2019, 17(1): 147-159.
 - Hancheng Cao, **Fengli Xu**, Jane Sankaranarayanan, Yong Li, Hamen Samet. Habit2vec: Trajectory Semantic Embedding for Living Pattern Recognition in Population. *IEEE Transactions on Mobile Computing (TMC)*, 2019, 19(5): 1096-1108.
 - Kai Zhao, Zhen Tu, **Fengli Xu**, Yong Li, Pengyu Zhang, Dan Pei, Li Su, Depeng Jin. **Walking without friends: Publishing anonymized trajectory dataset without leaking social relationships.** *IEEE Transactions on Network and Service Management (TNSM)*, 2019, 16(3): 1212-1225.
