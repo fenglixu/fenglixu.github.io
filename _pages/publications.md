@@ -10,17 +10,14 @@ author_profile: true
 
 ### Featured Publications
 
-- **Fengli Xu**, Lingfei Wu, James A. Evans. **Team Structure and Scientific Innovation.** To appear in  *Proceedings of the National Academy of Sciences* (PNAS).  [PDF](https://arxiv.org/pdf/2201.06726.pdf) 
-- **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Movements.** *Nature Computational Science*, 2021: 1-10. [PDF]()
-- **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** To appear in Conference on *Neural Information Processing Systems (NeurIPS)*, 2021. 
+- **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** To appear in *Proceedings of the National Academy of Sciences* (PNAS).  [PDF](/papers/2022_flat.pdf) 
+- **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Mobility Behavior.** *Nature Computational Science*, 1.12 (2021): 791-800. [PDF](/papers/2021_emergence.pdf) [Link](https://www.nature.com/articles/s43588-021-00160-6) [Code](https://github.com/tsinghua-fib-lab/Collective-Mobility-Model)
+- **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** *Advances in Neural Information Processing Systems* (NeurIPS), 34 (2021). [PDF](/papers/2021_automorphic.pdf) [Link](https://proceedings.neurips.cc/paper/2021/hash/7ffb4e0ece07869880d51662a2234143-Abstract.html) [Code](https://github.com/tsinghua-fib-lab/GRAPE)
 
 ### Working Papers
 
-- Lin Chen\* , **Fengli Xu**\* , Pan Hui, Kun Tang, James A. Evans, Depeng Jin, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** Under Revision in *Nature Human Behavior*.  (\*: equal contributions) [PDF](https://arxiv.org/pdf/2111.06689.pdf)
-
-- Zhenyu Han\*, **Fengli Xu**\*, Yong Li, Tao Jiang, James A. Evans. **Urban Mobility Model Reduces Data Demands for Estimating COVID-19 Growth and Informs Reopening Policy.** Under Review in *Nature Computational Science*.  (\*: equal contributions) [PDF]()
-
-  
+- Lin Chen\*, **Fengli Xu**\*, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** Under Revision in *Nature Human Behavior*.  (\*: equal contributions) [PDF](/papers/2021_strategic.pdf)
+- Zhenyu Han\*, **Fengli Xu**\*, Yong Li, Tao Jiang, James Evans. **Urban Mobility Model Reduces Data Demands for Estimating COVID-19 Growth and Informs Reopening Policy.** Under Review in *Nature Computational Science*.  (\*: equal contributions) [PDF](/papers/2022_urban.pdf)
 
 ### Journal Publications
 
