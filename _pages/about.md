@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a postdoc scholar at the University of Chicago, where I am co-advised by [Prof. Luis Bettencourt](https://voices.uchicago.edu/luisbettencourt/) at the *Mansueto Institute for Urban Innovation* and [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans) at *Knowledge Lab*.
 
-My research interests lie in the interdisciplinary area of *Computational Social Science*, *Urban Science* and *Data Science*, aiming to develop scientific methods and artificial intelligence tools to address the long-standing puzzles in the complex networks arise from human behavior and social interactions. My research aims to fully exploit the opportunities offered by the recent data explosion and push forward computational social science research with novel *Data Science* / *AI* techniques. 
+My research interests lie in the interdisciplinary area of *Computational Social Science*, *Urban Science* and *Data Science*, aiming to develop scientific methods and artificial intelligence tools to address the long-standing puzzles in complex networks arise from human behavior and social interactions. My research aims to fully exploit the opportunities offered by recent data explosion and push forward the boundary of computational social science research with novel *Data Science*/*AI* techniques. 
 
 
 
