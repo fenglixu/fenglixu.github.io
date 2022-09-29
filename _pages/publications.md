@@ -10,9 +10,9 @@ author_profile: true
 
 ### Featured Publications
 
-- **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** *Proceedings of the National Academy of Sciences (PNAS)*, 119.23 (2022): e2200927119.  [PDF](/papers/2022_flat.pdf) [Link](https://www.pnas.org/doi/10.1073/pnas.2200927119)
-- Lin Chen\*, **Fengli Xu**\*, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** *Nature Human Behaviour* (2022): 1-12.  (\*: equal contributions) [PDF](/papers/2021_strategic.pdf) [Link](https://www.nature.com/articles/s41562-022-01429-0)
-- **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Mobility Behavior.** *Nature Computational Science*, 1.12 (2021): 791-800. [PDF](/papers/2021_emergence.pdf) [Link](https://www.nature.com/articles/s43588-021-00160-6) [Code](https://github.com/tsinghua-fib-lab/Collective-Mobility-Model)
+- **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** *Proceedings of the National Academy of Sciences (PNAS)*, 119.23 (2022): e2200927119.  [PDF](/papers/2022_pnas_flat.pdf) [Link](https://www.pnas.org/doi/10.1073/pnas.2200927119)
+- Lin Chen\*, **Fengli Xu**\*, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** *Nature Human Behaviour* (2022): 1-12.  (\*: equal contributions) [PDF](/papers/2022_nhb_strategic.pdf) [Link](https://www.nature.com/articles/s41562-022-01429-0)
+- **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Mobility Behavior.** *Nature Computational Science*, 1.12 (2021): 791-800. [PDF](/papers/2021_ncs_emergence.pdf) [Link](https://www.nature.com/articles/s43588-021-00160-6) [Code](https://github.com/tsinghua-fib-lab/Collective-Mobility-Model)
 - **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** *Advances in Neural Information Processing Systems* *(NeurIPS)*, 34 (2021). [PDF](/papers/2021_automorphic.pdf) [Link](https://proceedings.neurips.cc/paper/2021/hash/7ffb4e0ece07869880d51662a2234143-Abstract.html) [Code](https://github.com/tsinghua-fib-lab/GRAPE)
 
 ### Working Papers
