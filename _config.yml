@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fengli's Homepage"
 title_separator          : "-"
 name                     : &name "Fengli Xu"
-description              : &description "Assistant Professor    @ Tsinghua Univ."
+description              : &description "Assistant Professor @ Tsinghua Univ."
 url                      : https://fenglixu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fenglixu/fenglixu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fengli Xu"
   avatar           : "new photo.jpg"
-  bio              : "Assistant Professor @ Tsinghua"
+  bio              : "Assistant Professor    @ Tsinghua Univ."
   googlescholar    : "https://scholar.google.com/citations?user=UJrlw1cAAAAJ&hl=en"
   email            :  "fenglixu@tsinghua.edu.cn"
   employer         : 
