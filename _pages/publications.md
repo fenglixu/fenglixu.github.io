@@ -8,19 +8,19 @@ author_profile: true
 
   Feel free to check out [my Google Scholar page](https://scholar.google.com/citations?user=UJrlw1cAAAAJ&hl=en).
 
-### Featured Publications
+### Featured Publications 
+(* equal contribution, † corresponding author)
 
 - **Fengli Xu**, Lingfei Wu, James Evans. **Flat Teams Drive Scientific Innovation.** *Proceedings of the National Academy of Sciences (PNAS)*, 119.23 (2022): e2200927119.  [PDF](/papers/2022_pnas_flat.pdf) [Link](https://www.pnas.org/doi/10.1073/pnas.2200927119)
 - Lin Chen\*, **Fengli Xu**\*, Zhenyu Han, Kun Tang, Pan Hui, James Evans, Yong Li. **Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity.** *Nature Human Behaviour* (2022): 1-12.  (\*: equal contributions) [PDF](/papers/2022_nhb_strategic.pdf) [Link](https://www.nature.com/articles/s41562-022-01429-0)
 - **Fengli Xu**, Yong Li, Depeng Jin, Jianhua Lu, Chaoming Song. **Emergence of Urban Growth Patterns from Human Mobility Behavior.** *Nature Computational Science*, 1.12 (2021): 791-800. [PDF](/papers/2021_ncs_emergence.pdf) [Link](https://www.nature.com/articles/s43588-021-00160-6) [Code](https://github.com/tsinghua-fib-lab/Collective-Mobility-Model)
 - **Fengli Xu**, Quanming Yao, Pan Hui, Yong Li. **Automorphic Equivalence-aware Graph Neural Network.** *Advances in Neural Information Processing Systems* *(NeurIPS)*, 34 (2021). [PDF](/papers/2021_automorphic.pdf) [Link](https://proceedings.neurips.cc/paper/2021/hash/7ffb4e0ece07869880d51662a2234143-Abstract.html) [Code](https://github.com/tsinghua-fib-lab/GRAPE)
 
-### Working Papers
-
-- Zhenyu Han\*, **Fengli Xu**\*, Yong Li, et al. **Urban Mobility Model Reduces Data Demands for Estimating COVID-19 Growth and Informs Reopening Policy.** Under Review in *Nature Computational Science*.  (\*: equal contributions) [PDF](/papers/2022_urban.pdf)
 
 ### Journal Publications
 
+- Qianyue Hao, **Fengli Xu**†, Lin Chen, et al. **Hierarchical Multi-agent Model for Reinforced Medical Resource Allocation with Imperfect Information.** *ACM Transactions on Intelligent Systems and Technology (TIST)*, 2022. [Link](https://dl.acm.org/doi/full/10.1145/3552436)
+- Guozhen Zhang, **Fengli Xu**, Yuan Yuan, et al. **Understanding the Influence of Social Hubs in Diffusion Processes Driven by Incentivized Friend Invitation.** *IEEE Transactions on Computational Social Systems (TCSS)*, 2022. [Link](https://ieeexplore.ieee.org/abstract/document/9810198)
 - Yuan Yuan, **Fengli Xu**, Hancheng Cao, et al. **Persuade to Click: Context-aware Persuasion Model for Online Textual Advertisement.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, (2021). [Link](https://ieeexplore.ieee.org/abstract/document/9556599)
 - Tong Xia, Yong Li, Yue Yu, **Fengli Xu**, et al. **Understanding urban dynamics via state-sharing hidden markov model.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 33.10 (2020): 3468-3481. [Link](https://ieeexplore.ieee.org/abstract/document/8964408?casa_token=ASqU9qIV71kAAAAA:BjUhk8eeXRGe76Su5oyvHpY8AglT4bMbkt31HXBM5B9gD_lai37wLVCRhW4LgCYWeFc-NM-4)
 - **Fengli Xu**, Yong Li, Zhen Tu, et al. **No More than What I Post: Preventing Linkage Attacks on Check-in Services.** *IEEE Transactions on Mobile Computing (TMC)*, 20.2 (2019): 620-633. [Link](https://ieeexplore.ieee.org/abstract/document/8869862?casa_token=ISsAsUPMNTMAAAAA:AD6cqM_XI17NtRDLHgTnYIvKlzbV4jETrGXcMHWfMTVaWyH2wH2SoCTXgoD0AJFCgjTaN4wy) 
@@ -37,7 +37,10 @@ author_profile: true
 
 ### Conference Publications
 
-- Yunke Zhang, **Fengli Xu**†, Tong Xia, et al. **Quantifying the Causal Effect of Individual Mobility on Health Status in Urban Space.** *ACM International Joint Conference on Pervasive and Ubiquitous Computing* *(Ubicomp)*, 5.4 (2021): 1-30. (†: corresponding author) [Link](https://dl.acm.org/doi/abs/10.1145/3494990?casa_token=DVQmlAPoafMAAAAA:t1uVHQVFgpsi37oWCcqZ2LyRfcPRjNpbxHtPhMQG6koI802FZC1tLp3zs6ph3snGjFObhoHjIgN4)
+- Lin Chen, **Fengli Xu**†, P Hui, et al. **Getting Back on Track: Understanding COVID-19 Impact on
+Urban Mobility and Segregation with Location Service Data.** *International AAAI Conference on Web and Social Media (ICWSM)*, 17 (2022): 126-136. [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/22132)
+- Q. Hao, W. Huang, **Fengli Xu**, et al. **Reinforcement Learning Enhances the Experts: Large-scale COVID-19 Vaccine Allocation with Multi-factor Contact Network.** *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*, (2022): 4684-4694. [Link](https://dl.acm.org/doi/abs/10.1145/3534678.3542679)
+- Yunke Zhang, **Fengli Xu**†, Tong Xia, et al. **Quantifying the Causal Effect of Individual Mobility on Health Status in Urban Space.** *ACM International Joint Conference on Pervasive and Ubiquitous Computing (Ubicomp)*, 5.4 (2021): 1-30. (†: corresponding author) [Link](https://dl.acm.org/doi/abs/10.1145/3494990?casa_token=DVQmlAPoafMAAAAA:t1uVHQVFgpsi37oWCcqZ2LyRfcPRjNpbxHtPhMQG6koI802FZC1tLp3zs6ph3snGjFObhoHjIgN4)
 - Qianyue Hao, **Fengli Xu**†, Lin Chen, et al. **Hierarchical Reinforcement Learning for Scarce Medical Resource Allocation with Imperfect Information.** *Proceedings of ACM SIGKDD Conference on Knowledge Discovery & Data Mining (SIGKDD)*. 2021. (†: corresponding author) [Link](https://dl.acm.org/doi/abs/10.1145/3447548.3467181?casa_token=nHNH7OUUVLUAAAAA:WBmN_OvGlQcK_rbr99dXZTtShpViwUNg0qKnlC4ZuNdJPWn4sjUH1IesbwnIUosDEDKQT2jLLXWE)
 - **Fengli Xu**, Guozhen Zhang, Yuan Yuan, et al. **Understanding the Invitation Acceptance in Agent-initiated Social E-commerce.** *Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)*. Vol. 15. 2021. [Link](https://ojs.aaai.org/index.php/ICWSM/article/view/18106)
 - Jinghua Piao, Guozhen Zhang, **Fengli Xu**, et al. **Bringing Friends into the Loop of Recommender Systems: An Exploratory Study.** *Proceedings of the ACM on Human-Computer Interaction (CSCW)*, 5.CSCW2 (2021): 1-26. [Link](https://dl.acm.org/doi/abs/10.1145/3479583)
