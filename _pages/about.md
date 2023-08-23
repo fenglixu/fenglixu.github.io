@@ -14,31 +14,4 @@ Prior to my current position, I was a postdoc scholar at the University of Chica
 
 
 
-
-
-# Education
-
-- **Tsinghua University**, *Sep. 2015 - Jan. 2020*
-
-  *Ph. D.* in Department of Electronic Engineering (Advised by [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/))
-
-- **Huazhong University of Science & Technology**, *Sep. 2011 - Jul. 2015*
-
-  *B.S.* in Department of Electronic Engineering
-
-  
-
-# Research Experience
-
-- **The University of Chicago**, *Aug. 2020 - Apr. 2023*
- 
-  *Postdoc Scholar*, with [Prof. Luis Bettencourt](https://voices.uchicago.edu/luisbettencourt/) at [Mansueto Institute](https://miurban.uchicago.edu/) and [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans) at [Knowledge Lab](https://www.knowledgelab.org/).
-
-- **Hong Kong University of Science & Technology**, *Feb. 2020 - Aug. 2020*
-
-  *Postdoc Researcher*, with Prof. Pan Hui at [SyMLab](https://www.cse.ust.hk/~panhui/).
-
-- **Tsinghua University**, *Sep. 2015 - Jan. 2020*
-
-  Ph. D. Student & Research  Assistant, with Prof. Yong Li at [FIB Lab](http://fi.ee.tsinghua.edu.cn/).
-
+# Recent News
