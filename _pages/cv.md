@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can download my [CV](/files/CV.pdf) here (last updated on May 22, 2022).
+You can download my [CV](/CV.pdf) here (last updated on August 23, 2023).
