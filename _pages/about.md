@@ -12,7 +12,8 @@ I am currently an Assistant Professor at the Department of Electronic Engineerin
 
 Prior to my current position, I was a postdoc scholar at the University of Chicago, co-advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans) and [Prof. Luis Bettencourt](https://voices.uchicago.edu/luisbettencourt/). I obtained my Ph.D. in Electronic Engineering from Tsinghua University in 2020, under the supervision of [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/).
 
-
+## Prospective Students:
+Our lab has several open research positions for prospective graduate students (Ph.D./Master programs) and undergraduate research interns. We are looking for self-motivated students to work together on various exciting data science projects. If you are interested, please drop me an email with your CV. 
 
 ## Recent News
 - \[08/2023\] - We are organizing the first [Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/).
