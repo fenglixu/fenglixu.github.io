@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at the Department of Electronic Engineering in Tsinghua University. My research interests lie in the interdisciplinary area of *Artificial Intelligence*, *Data Science*, *Social Computing* and *Urban Science*, aiming to develop scientific methods and algorithmic tools to address the long-standing puzzles in the complex networks arising from human dynamics and social interactions. My research foucses on fully exploiting the opportunities offered by recent data explosion, and pushing forward the boundary of human dynamics, urban science and social network research with novel *Data Science*/*AI* techniques. 
+I am currently an Assistant Professor at the Department of Electronic Engineering in Tsinghua University. My research interests lie in the interdisciplinary area of *Artificial Intelligence*, *Data Science*, *Social Computing* and *Urban Science*, aiming to develop scientific methods and algorithmic tools to address the long-standing puzzles in the complex networks arising from human dynamics and social interactions. My research focuses on fully exploiting the opportunities offered by recent data explosion, and pushing forward the boundary of human dynamics, urban science and social network research with novel *Data Science*/*AI* techniques. 
 
 Prior to my current position, I was a postdoc scholar at the University of Chicago, co-advised by [Prof. James Evans](https://sociology.uchicago.edu/directory/james-evans) and [Prof. Luis Bettencourt](https://voices.uchicago.edu/luisbettencourt/). I obtained my Ph.D. in Electronic Engineering from Tsinghua University in 2020, under the supervision of [Prof. Yong Li](http://fi.ee.tsinghua.edu.cn/~liyong/).
 
