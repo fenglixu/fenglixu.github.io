@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at the Department of Electronic Engineering in Tsinghua University. My research explores the interdisciplinary realms of *Artificial Intelligence*, *Data Science*, *Social Computing* and *Urban Science*, aiming to develop scientific methods and algorithmic tools to address the long-standing puzzles in the complex networks arising from human dynamics and social interactions. Recently, I am particularly interested in the emergence of role-playing and commonsense reasoning capabilities in Large Language Models (LLMs). My latest research focuses on designing autonomous LLM agents that learn from interactions with the environment, and simulate realistic human behavior and collective dynamics of societies.  
+I am currently an Assistant Professor at the Department of Electronic Engineering in Tsinghua University. My research explores the interdisciplinary realms of *Artificial Intelligence*, *Data Science*, *Social Computing* and *Urban Science*, aiming to develop scientific methods and algorithmic tools to address the long-standing puzzles in the complex networks arising from human dynamics and social interactions. Recently, I am particularly interested in the emergence of role-playing and commonsense reasoning capabilities in Large Language Models (LLMs). My latest research focuses on creating autonomous LLM agents, which is capable of learning from the interactions with environment, simulating realistic human behavior, and revealing the collective dynamics of societies. 
 
-Before assuming my current position, I was a postdoctoral scholar at the University of Chicago. I earned my Ph.D. in Electronic Engineering from Tsinghua University in 2020.
+Before my current position, I was a postdoctoral scholar at the University of Chicago. I earned my Ph.D. in Electronic Engineering from Tsinghua University in 2020.
 
 ## Prospective Students:
 Our lab has several open research positions for prospective graduate students (Ph.D./Master programs) and undergraduate research interns. We are looking for self-motivated students to work together on various exciting data science projects. If you are interested, please drop me an email with your CV. 
