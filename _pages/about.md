@@ -23,7 +23,7 @@ Our lab has several open research positions for prospective graduate students (P
 - \[New!\] We release a [survey paper](https://arxiv.org/abs/2312.11970) about agent-based modeling and simulation with large language model-empowered agents.
 - \[01/2024\] - New paper published on **Nature Humanities and Social Sciences Communications**: [Counterfactual mobility network embedding reveals prevalent accessibility gaps in US cities](https://www.nature.com/articles/s41599-023-02570-5).
 - \[08/2023\] - We are organizing the first [Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/).
-- \[04/2023\] - I just joined EE Department @ Tsinghua University as an Assistant Professor.
+- \[04/2023\] - I joined EE Department @ Tsinghua University as an Assistant Professor.
 - \[08/2022\] - New paper published on **Nature Human Behaviour**: [Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity](https://www.nature.com/articles/s41562-022-01429-0).
 - \[06/2022\] - New paper published on **PNAS**: [Flat teams drive scientific innovation](https://www.pnas.org/doi/abs/10.1073/pnas.2200927119).
 - \[12/2021\] - New paper published on **Nature Computational Science**: [Emergence of urban growth patterns from human mobility behavior](https://www.nature.com/articles/s43588-021-00160-6).
