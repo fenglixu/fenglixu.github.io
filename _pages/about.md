@@ -16,7 +16,11 @@ Before my current position, I was a postdoctoral scholar at the University of Ch
 Our lab has several open research positions for prospective graduate students (Ph.D./Master programs) and undergraduate research interns. We are looking for self-motivated students to work together on various exciting data science projects. If you are interested, please drop me an email with your CV. 
 
 ## Recent News
-- \[New!\] - We release a [preprint paper](https://arxiv.org/abs/2402.02563) about the efficient LLM reasoning framework, *DefInt*(short for Default-Interventionist), which effectively exploits the synergistic effect between large and smaller language models.
+- \[New!\] - We release a [preprint paper](https://arxiv.org/abs/2402.02563) about the efficient LLM reasoning framework, *DefInt* (short for Default-Interventionist), which aims to exploit the synergistic effect between large and smaller language models.
+- \[New!\] We release a [preprint paper](https://arxiv.org/abs/2402.09836) about leveraging the reasoning power of LLM to generate realistic human mobility data.
+- \[New!\] We release a [preprint paper](https://arxiv.org/abs/2402.09836) about designing LLM agents for meta-structures discovery in heterogeneous informatoin network.
+- \[New!\] We release a [preprint paper](https://arxiv.org/abs/2312.11813) about developing LLM agents in simulated urban enviornment.
+- \[New!\] We release a [survey paper](https://arxiv.org/abs/2312.11970) about agent-based modeling and simulation with large language model-empowered agents.
 - \[08/2023\] - We are organizing the first [Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/).
 - \[04/2023\] - I just joined EE Department @ Tsinghua University as an Assistant Professor.
 - \[08/2022\] - New paper published on **Nature Human Behaviour**: [Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity](https://www.nature.com/articles/s41562-022-01429-0).
