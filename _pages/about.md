@@ -21,6 +21,7 @@ Our lab has several open research positions for prospective graduate students (P
 - \[New!\] We release a [preprint paper](https://arxiv.org/abs/2402.09836) about designing LLM agents for meta-structures discovery in heterogeneous informatoin network.
 - \[New!\] We release a [preprint paper](https://arxiv.org/abs/2312.11813) about developing LLM agents in simulated urban enviornment.
 - \[New!\] We release a [survey paper](https://arxiv.org/abs/2312.11970) about agent-based modeling and simulation with large language model-empowered agents.
+- \[01/2024\] - New paper published on **Nature Humanities and Social Sciences Communications**: [Counterfactual mobility network embedding reveals prevalent accessibility gaps in US cities](https://www.nature.com/articles/s41599-023-02570-5).
 - \[08/2023\] - We are organizing the first [Research Summit of Urban Science](https://fi.ee.tsinghua.edu.cn/RSUSHD2023/).
 - \[04/2023\] - I just joined EE Department @ Tsinghua University as an Assistant Professor.
 - \[08/2022\] - New paper published on **Nature Human Behaviour**: [Strategic COVID-19 vaccine distribution can simultaneously elevate social utility and equity](https://www.nature.com/articles/s41562-022-01429-0).
